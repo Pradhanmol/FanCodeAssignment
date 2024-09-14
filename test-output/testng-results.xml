@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-14T11:25:57 IST" name="Fancode Api Automate Test Suite" finished-at="2024-09-14T11:26:00 IST" duration-ms="3080">
+    <groups>
+    </groups>
+    <test started-at="2024-09-14T11:25:57 IST" name="FanCodeCityTodoTest" finished-at="2024-09-14T11:26:00 IST" duration-ms="3080">
+      <class name="test.FanCodeCityTodoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.FanCodeCityTodoTest@4445629]" started-at="2024-09-14T11:25:57 IST" name="setUp" finished-at="2024-09-14T11:25:58 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUsersFromFanCodeCityTodoCompletion()[pri:0, instance:test.FanCodeCityTodoTest@4445629]" started-at="2024-09-14T11:25:58 IST" name="testUsersFromFanCodeCityTodoCompletion" finished-at="2024-09-14T11:26:00 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsersFromFanCodeCityTodoCompletion -->
+      </class> <!-- test.FanCodeCityTodoTest -->
+    </test> <!-- FanCodeCityTodoTest -->
+  </suite> <!-- Fancode Api Automate Test Suite -->
+</testng-results>
